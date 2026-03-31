@@ -45,8 +45,8 @@ A tool for checking the campaigns exported from Gamebus in xlsx format.
 
    ```
    python Gamebus_Campaign_Checker.py -f PATH/CAMPAIGN_FILENAME.xlsx # (Linux/MacOSX) Run all checks on the campaign downloaded from Gamebus
-   python Gamebus_Campaign_Checker.py -f (Windows) PATH\CAMPAIGN_FILENAME.xlsx # Run all checks on the campaign downloaded from Gamebus
-   python Gamebus_Campaign_Checker.py -h                        # see how to run individual checks only
+   python Gamebus_Campaign_Checker.py -f PATH\CAMPAIGN_FILENAME.xlsx # (Windows) Run all checks on the campaign downloaded from Gamebus
+   python Gamebus_Campaign_Checker.py -h                             # see how to run individual checks only
    ```
 
   
