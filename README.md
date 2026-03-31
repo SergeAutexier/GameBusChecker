@@ -25,7 +25,7 @@ A tool for checking the campaigns exported from Gamebus in xlsx format.
 
    **Set up Python environment (Linux/MacOSX)**
 
-    On the command line, create a directory and change to that directory. Then:
+   On the command line, create a directory and change to that directory. Then:
   
     ```
     python -m venv .venv
