@@ -35,11 +35,12 @@ A tool for checking the campaigns exported from Gamebus in xlsx format.
 
 3. **Run**:
 
-  Download a Gamebus campaign from 
+  Download a Gamebus campaign from your campaign at (menu in the 3 dots next to your campaign)
 
   ```
-  https://campaigns.healthyw8.gamebus.eu/editor/for/283/analytics
+  https://campaigns.healthyw8.gamebus.eu/editor/campaigns
   ```
+
   and save the Excel file CAMPAIGN_FILENAME.xlsx in a directory, e.g. PATH. 
 
    ```
