@@ -27,11 +27,11 @@ A tool for checking the campaigns exported from Gamebus in xlsx format.
 
    On the command line, create a directory and change to that directory. Then:
   
-    ```
-    python -m venv .venv
-    source .venv/Scripts/activate
-    pip install -r requirements.txt
-    ```
+   ```
+   python -m venv .venv
+   source .venv/Scripts/activate
+   pip install -r requirements.txt
+   ```
 
 3. **Run**:
 
